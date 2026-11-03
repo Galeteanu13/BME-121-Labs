@@ -13,4 +13,7 @@ add_executable(
         "Lab 4/wdhms.cpp"
         "Lab 4/wind.cpp"
         "Lab 5/square.cpp"
-        "Lab 5/factorial.cpp")
+        "Lab 5/factorial.cpp"
+        Fibonacci/Fibonacci.cpp
+        Fibonacci/derivitive.cpp
+        Fibonacci/thing.cpp)
