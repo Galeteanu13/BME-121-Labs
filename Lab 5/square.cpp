@@ -14,7 +14,7 @@ int main() {
     cin >> size;
 
 
-    if (cin.fail() || size%2 != 0 || size<=0) {
+    if (cin.fail() || size%2 != 0 || size<=0 || size > 20) {
         return 1;
     }
 

@@ -19,7 +19,7 @@ int main() {
     cout<<"Enter a tollerence: ";
     cin>>tollerence;
 
-    if(cin.fail() || tollerence > 0.1 || tollerence < 0) {
+    if(cin.fail() || tollerence >= 0.1 || tollerence <= 0) {
         return -1;
     }
 
