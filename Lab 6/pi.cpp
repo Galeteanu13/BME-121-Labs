@@ -17,18 +17,14 @@ int main() {
     double tollerence = 0;
 
 
-    if(cin.fail() || tollerence >= 0.1 || tollerence <= 0) {
-        return -1;
-    }
 
 
         do {
-            cout<<"Enter a tolerance: ";
             cin>>tollerence;
             if (cin.fail() || tollerence >= 0.1 || tollerence <= 0) {
                 cout<<"Input error"<<endl;
                 cin.clear();
-                cin.ignore();
+                cin.ignore(1000000);
             }
         }while (cin.fail() || tollerence >= 0.1 || tollerence <= 0);
 

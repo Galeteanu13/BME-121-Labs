@@ -29,7 +29,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69d9d0ad-3dfb-48bc-bb64-b42655100de5" name="Changes" comment="lab 6 part 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab 6/pi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/pi.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,7 @@
       <recent name="C:\Users\nicol\CLionProjects\BME121 Projects\Tick Tac Toe" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.diamond.cpp">
+  <component name="RunManager" selected="C/C++ File.pi.cpp">
     <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="BeforeTestRunTask" enabled="true" />
