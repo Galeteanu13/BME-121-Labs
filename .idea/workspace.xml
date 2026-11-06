@@ -28,14 +28,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69d9d0ad-3dfb-48bc-bb64-b42655100de5" name="Changes" comment="lab 6">
-      <change afterPath="$PROJECT_DIR$/Fibonacci/Fibonacci.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci/derivitive.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci/thing.cpp" afterDir="false" />
+    <list default="true" id="69d9d0ad-3dfb-48bc-bb64-b42655100de5" name="Changes" comment="lab 6 part 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/factorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/factorial.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/square.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/square.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 6/diamond.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/diamond.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab 6/pi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/pi.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,11 +150,6 @@
       </method>
     </configuration>
     <configuration name="BME121_Projects" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BME121_Projects" TARGET_NAME="BME121_Projects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BME121_Projects" RUN_TARGET_NAME="BME121_Projects">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -339,7 +328,8 @@
     <MESSAGE value="labs 2-4" />
     <MESSAGE value="lab 5" />
     <MESSAGE value="lab 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 6" />
+    <MESSAGE value="lab 6 part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 6 part 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
